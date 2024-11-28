@@ -1,0 +1,3 @@
+src/face-env/Lib/site-packages/torch/lib/torch_cpu.dll
+src/face-env/Lib/site-packages/torch/lib/dnnl.lib
+face-env

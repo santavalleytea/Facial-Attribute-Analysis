@@ -1,6 +1,6 @@
 # COMP3419-Facial-Attribute-Analysis
 
-This is my final project for my COMP3419 Graphics and Multimedia class. The object was to utilize deep learning architectures to create a model
+This is my final project for my COMP3419 Graphics and Multimedia class. The objective was to utilize deep learning architectures to create a model
 that can accurately describe facial attributes given a batch of images. The main methods that were used for this project was the Convolutional Neural Network (CNN), in addition
 to data augmentation and optimization tools such as Binary Cross Entropy Loss and Adam optimizer.
 #
